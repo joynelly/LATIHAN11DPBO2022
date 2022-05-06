@@ -23,7 +23,7 @@ Pada tugas ini terdapat source code PHP dan html beserta database. Berikut penje
    > ![](assets_readme/delete.gif)<br>
    
    
-3. Buatlah fitur untuk peminjaman buku. Saat menambahkan peminjaman, status buku ialah belum dikembalikan. Terdapat button kembalikan untuk mengubah status buku. <br>
+3. Membuat fitur untuk peminjaman buku. Saat menambahkan peminjaman, status buku ialah belum dikembalikan. Terdapat button kembalikan untuk mengubah status buku. <br>
    ![](assets_readme/no3.gif)<br>
    
 
