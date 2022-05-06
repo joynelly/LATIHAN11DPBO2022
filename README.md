@@ -7,30 +7,22 @@ Janji
 #### TP2 - MVC (PHP)
 Pada tugas ini terdapat source code PHP dan html beserta database. Berikut penjelasan mengenai apa yang telah saya kerjakan beserta dokumentasi hasilnya.
 
-1. ## TP2DPBO2022
-
-Janji
-
->Saya Nelly Joy Christi Simanjuntak 2000199 mengerjakan TUgas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
-
-#### TP2 - PHP GUI
-Pada tugas ini terdapat source code PHP dan html beserta database yang telah saya buat. Berikut penjelasan mengenai apa yang telah saya kerjakan beserta dokumentasi hasilnya.
-
-1. Tampilan awal dimana terdapat daftar kumpulan pengurus ormawa yang ditampilkan secara tersusun (logo dan navbar dapat diklik, semua item pada card/profil juga dapat di klik) <br>
+1. Membuat fitur untuk menampilkan data member menggunakan
+konsep MVC. <br>
    ![](assets_readme/no1.gif)<br>
 
 2. Membuat fitur CRUD untuk data member untuk memanipulasi data
 dari tabel member. <br>
    > Insert (Create)
-   > ![](assets_readme/c.gif)<br>
+   > ![](assets_readme/create.gif)<br>
 
    > Read (ada pada no.1)
 
    > Update
-   > ![](assets_readme/u.gif)<br>
+   > ![](assets_readme/update.gif)<br>
 
    > Delete
-   > ![](assets_readme/d.gif)<br>
+   > ![](assets_readme/delete.gif)<br>
    
    
 3. Buatlah fitur untuk peminjaman buku <br>
